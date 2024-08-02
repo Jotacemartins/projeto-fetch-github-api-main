@@ -1,6 +1,10 @@
 # Projeto Fetch GitHub API
 
 
+https://github.com/user-attachments/assets/216ef668-af6e-469c-af9e-cdb3274f90fe
+
+
+
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido durante o curso **DevQuest - Dev em Dobro**, onde aplicamos diversos conhecimentos adquiridos ao longo dos módulos para criar uma aplicação que consome a **API do GitHub**. Utilizamos o **fetch** para buscar informações dos usuários e exibi-las na tela.
